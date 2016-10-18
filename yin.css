@@ -1,0 +1,38 @@
+*{margin:0;padding:0;}
+a{text-decoration: none;
+	
+}
+.topbar1 span ,a{color: #E1E2E8;}
+/*顶部*/
+.topbar{
+	height: 36px;
+	background:#3E4773;
+	overflow: hidden;
+	
+	}
+.topbar .le{
+	line-height: 36px;
+	margin-left: 206px;
+	color: #EEEFF2;
+}
+.topbar1 {
+	float: right;
+	line-height: 36px;
+}
+.topbar1 a {
+	border-right: 2px solid #BEC0CC;
+	padding-right: 12px;
+}
+.topbar1 .ri{
+	margin-left: 46px;
+	margin-right: 200px;
+	font-size: 18px;
+	font-style: italic;
+}
+.mi{
+	height:110px;
+	background: black;
+	background:url(qiguan.png);
+	background-position: 67px center ;
+	background-repeat: no-repeat;
+	 }
